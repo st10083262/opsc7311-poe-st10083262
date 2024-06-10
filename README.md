@@ -1,5 +1,6 @@
 # Timesheet Tracker
 This is a timesheet tracker app built using Jetpack Compose for OPSC7311.
+An APK is provided for you to run the app on your device in `app-debug.apk`.
 
 # Group Details
 ```
